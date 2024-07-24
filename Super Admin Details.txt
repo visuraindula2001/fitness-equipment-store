@@ -1,0 +1,6 @@
+name - Visura Malawara Aarchchi
+email - visuraima@gmail.com
+number -'0702028303
+password - 12345
+
+Super admin details should added to users and the normal admin table too.
